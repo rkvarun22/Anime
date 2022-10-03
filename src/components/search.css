@@ -1,0 +1,27 @@
+.search{
+    display: flex;
+    height: 300px;
+    flex-direction: column;
+    align-items: center;
+    background-image: url("https://wallpaperaccess.com/full/39046.jpg");
+}
+.heading{
+    font-size: 25px;
+    font-weight: bold;
+}
+input{
+    width: 500px;
+    height: 40px;
+    padding: 5px;
+}
+
+.input{
+    margin: 48px;
+}
+.heading,.info{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
